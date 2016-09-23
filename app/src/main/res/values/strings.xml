@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sqrt_root">\u221a</string>
+    <string name="backspace">\u2190</string>
+    <!--<string name="square">x<sup>2</sup></string>-->
+</resources>
